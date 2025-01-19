@@ -1,0 +1,126 @@
+{
+  "kids": [
+    {
+      "QuestionNumber": 1,
+      "QuestionText": "How can we save electricity at home?",
+      "Answers": ["Leaving lights on", "Turning off unused devices", "Running all devices at once"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 2,
+      "QuestionText": "When is the ideal time to water plants?",
+      "Answers": ["During the afternoon to increase evaporation", "In the early morning or late in the evening to reduce evaporation", "In the middle of the night"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 3,
+      "QuestionText": "Which is the most efficient lamp out of these?",
+      "Answers": ["CFL lamp", "Incandescent Lamp", "LED Lamp"],
+      "CorrectAnswerIndex": 2
+    },
+    {
+      "QuestionNumber": 4,
+      "QuestionText": "What should we do to reduce electricity consumption at home?",
+      "Answers": ["Using high-energy light bulbs", "Using energy-efficient light bulbs", "Leaving devices running all day"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 5,
+      "QuestionText": "What is the importance of closing the refrigerator door quickly?",
+      "Answers": ["To increase the speeding of cooling food", "To prevent loss of cold air and save energy", "To increase electricity consumption"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 6,
+      "QuestionText": "Why should we use LED Lights at home?",
+      "Answers": ["Consume less energy and last for a long time", "Consume more energy and last for a short time", "Consume more energy"],
+      "CorrectAnswerIndex": 0
+    },
+    {
+      "QuestionNumber": 7,
+      "QuestionText": "How can we take advantage of sunlight during the day?",
+      "Answers": ["By keeping the lights on all day", "By turning off the lights and opening the blinds to let in sunlight", "By using heavy curtains to block the light"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 8,
+      "QuestionText": "What should we do if we find the air conditioner running in an empty room?",
+      "Answers": ["Leave it running all day", "Set the temperature to a high level", "Switch it off where possible to save the energy"],
+      "CorrectAnswerIndex": 2
+    },
+    {
+      "QuestionNumber": 9,
+      "QuestionText": "What should we do if we notice a water leak at home or school?",
+      "Answers": ["Ignore it", "Call the plumber immediately", "Inform the teacher or an adult to fix it immediately"],
+      "CorrectAnswerIndex": 2
+    },
+    {
+      "QuestionNumber": 10,
+      "QuestionText": "The higher we set the air conditioner temperature, the less electricity it consumes?",
+      "Answers": ["True", "False", "None of the Above"],
+      "CorrectAnswerIndex": 0
+    }
+  ],
+  "adults": [
+    {
+      "QuestionNumber": 1,
+      "QuestionText": "What is the importance of setting the air conditioning temperature to 24°C?",
+      "Answers": ["Helps save energy, reduce electricity bills and improves cooling efficiency", "Increases energy consumption and affects the performance of the air conditioning", "Helps increase humidity levels in the air"],
+      "CorrectAnswerIndex": 0
+    },
+    {
+      "QuestionNumber": 2,
+      "QuestionText": "What is the best way to save energy when using a washing machine?",
+      "Answers": ["Use hot water for washing instead of cold water", "Wash clothes more often", "Run the washing machine at full capacity each time"],
+      "CorrectAnswerIndex": 2
+    },
+    {
+      "QuestionNumber": 3,
+      "QuestionText": "Which of these appliances consumes the most electricity in a home?",
+      "Answers": ["Microwave", "Air conditioner", "Refrigerator"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 4,
+      "QuestionText": "What are the benefits of using LED lights?",
+      "Answers": ["Consumes less energy by more than 60%, produces less heat, which reduces the use of air conditioning", "Consumes more energy and produces more heat", "Consumes 100% energy like traditional bulbs."],
+      "CorrectAnswerIndex": 0
+    },
+    {
+      "QuestionNumber": 5,
+      "QuestionText": "How can we reduce water consumption in garden irrigation?",
+      "Answers": ["Use surface irrigation for all plants", "Install an automated drip irrigation system that works automatically", "Let the plants receive water naturally without intervention"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 6,
+      "QuestionText": "How can we reduce water wastage in swimming pools?",
+      "Answers": ["Leave the pool open all the time", "Cover the pool when not in use, and check it regularly to ensure there are no leaks", "Fill the pool with water each time it's used"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 7,
+      "QuestionText": "What is the importance of periodic checks for water leaks in the house?",
+      "Answers": ["It is not important, as it does not affect the water bill", "Periodic checks help prevent large amounts of water wastage", "Increases bill costs without benefit"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 8,
+      "QuestionText": "How can we improve energy efficiency when using a water heater?",
+      "Answers": ["Set the temperature to 80°C and run it all day", "Set the temperature to 55°C, use it only when needed and turning it off during summer", "Run the heater at a low temperature all the time"],
+      "CorrectAnswerIndex": 1
+    },
+    {
+      "QuestionNumber": 9,
+      "QuestionText": "How can we reduce electricity consumption when using a refrigerator?",
+      "Answers": ["Place the refrigerator near heat sources like stoves", "Leave the refrigerator door open for long periods", "Leave enough space around the refrigerator for proper air circulation and place it away from sunlight and sources from heat"],
+      "CorrectAnswerIndex": 2
+    },
+    {
+      "QuestionNumber": 10,
+      "QuestionText": "What is the best way to reduce water wastage when washing a car?",
+      "Answers": ["Use a running hose for washing", "Wash the car in a car wash that uses a water recycling system", "Use a bucket of water instead of a hose or use a hose with a shut-off nozzle"],
+      "CorrectAnswerIndex": 2
+    }
+  ]
+}
